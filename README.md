@@ -17,7 +17,7 @@ This batch script provides functionality to manage save files for a game named "
    - Select option 3 from the menu to open the local directory where the save files are stored in File Explorer.
 
 #### Instructions:
-- Download file in release.
+- Download HoloCure-copy-script.bat in [release](https://github.com/truong0235/HoloCure-save-script/releases/latest).
 - Follow the on-screen menu to choose the desired action (copy save, load save, or open folder).
 - The script will provide prompts for user input and perform the selected action accordingly.
 
