@@ -2,7 +2,7 @@
 
 This batch script provides functionality to manage save files for a game named "HoloCure" on a Windows system. It allows users to copy save files from their computer, load save files to their computer, and open the local directory where the save files are stored.
 
-#### Usage Instructions:
+#### Option explain:
 1. **Copy Save file**:
    - Select option 1 from the menu to copy the save files from the local directory to a new folder with a timestamp in the same directory as the script.
    - This option creates a backup of the current save files in a new folder.
